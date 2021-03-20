@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "566171510498",
+    "project_id": "mechon-5e241",
+    "storage_bucket": "mechon-5e241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566171510498:android:ff51f8b9798996d2eb60bb",
+        "android_client_info": {
+          "package_name": "com.machon.machon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566171510498-g1gq017gbpera4snu1mv8rqccj7gg8k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.machon.machon",
+            "certificate_hash": "de3396971340bcb9e06f876ba84f552c069d1190"
+          }
+        },
+        {
+          "client_id": "566171510498-nktpmk7biil0ckajuquefm0kfbmd3kee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2on4zt3dBwrqsU9ztjwnDA9O3bQP7SPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566171510498-nktpmk7biil0ckajuquefm0kfbmd3kee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566171510498-2530fni65o4jgjpmh6sqocmnvarhv2gs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sdaemon.mechonapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566171510498:android:f99232153826a066eb60bb",
+        "android_client_info": {
+          "package_name": "com.sdaemon.mechon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566171510498-jqnevno725snkpee5kuo8n8brpj4e93s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdaemon.mechon",
+            "certificate_hash": "a22a6788208db9a4f6d48731b0bf4cb0aa2ef46b"
+          }
+        },
+        {
+          "client_id": "566171510498-nktpmk7biil0ckajuquefm0kfbmd3kee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2on4zt3dBwrqsU9ztjwnDA9O3bQP7SPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566171510498-nktpmk7biil0ckajuquefm0kfbmd3kee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566171510498-2530fni65o4jgjpmh6sqocmnvarhv2gs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sdaemon.mechonapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
